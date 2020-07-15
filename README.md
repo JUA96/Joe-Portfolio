@@ -1,37 +1,93 @@
-## Welcome to GitHub Pages
+# Welcome to my GitHub Portfolio
 
-You can use the [editor on GitHub](https://github.com/JUA96/Joe-Portfolio/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+**Data Analyst, and aspiring Data Scientist who is always open to new oppurtunities.**
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Interested in the intersection of Data Science and Public Policymaking. Specifically, the oppurtunity that state of the art technologies can bring to improving the overall policmaking process. 
 
-### Markdown
+## Domain Knowledge:
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- Political Science
+- Economics/Econometrics
+- Behavioural Science
+- Public Policy
+- Finance
+- Business Management 
 
-```markdown
-Syntax highlighted code block
+## Data Science AOI:
 
-# Header 1
-## Header 2
-### Header 3
+- Sentiment Analysis
+- NLP
+- Geospatial 
+- API/Json 
+- Social Media Network Analysis
 
-- Bulleted
-- List
+## Technical Expertise:
 
-1. Numbered
-2. List
+- Statistical Analysis
+- Statistical Modelling 
+- Predictive Analytics
+- Machine Learning
+- Data Mining
 
-**Bold** and _Italic_ and `Code` text
+## Language Expertise:
 
-[Link](url) and ![Image](src)
-```
+- Python
+- R
+- SQL 
+- Java
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
+## My GitHub Portfolio:
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/JUA96/Joe-Portfolio/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+**My GitHub page showcases a number of data science projects I have worked on. I regularly add to this portfolio with new programming projects that are of interest to me.**
 
-### Support or Contact
+Here are a couple of examples of some of the projects i have worked on:
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+**1. Fake News Classifier**
+
+The project sought to build a machine learning classification algorithm that could effectively categorise news articles as fake or real.
+
+- Using Natural Language Processing techniques I classified 150,000 news articles. The algorithms used were Support-Vector Machine (SVM) Multinomial Naive-Bayes (MNB) and XGBoost, of which SVM was the most accurate.
+
+The project is here: https://github.com/JUA96/fake-news-classifier
+
+Software used: 
+
+- Python
+
+Key Package Dependencies:
+
+- Tweepy
+- NLTK
+- Spacy
+- Sklearn
+
+**2. Geospatial Analysis of London's Borough's**
+
+The project set out to see if we could predict London's house prices by the amount of well rated locations and venues in each borough. 
+
+- Using Clustering Analysis I succesfully predicted which price segment a borough would fit into based on the type of venues that were in it.
+
+The project is here: https://github.com/JUA96/Capstone-Project-Geospatial-Analysis
+
+Software used: 
+
+- Python, IBM Watson Cloud
+
+Key Package Dependencies:
+
+- Sklearn
+- Geopandas
+- bs4
+- json requests
+- folium
+- geopy
+
+**Other Projects**
+
+Some of my other projects have included:
+
+- Social Media Analysis of the 2019 Democrat Presidential Primaries, using R.
+- Analysis of the impact of Chinese Financial flows on state level governance in Africa, using R.
+
+You can find the remaining projects here: https://github.com/JUA96?tab=repositories
