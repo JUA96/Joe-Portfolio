@@ -4,7 +4,7 @@
 
 Interested in the intersection of Data Science and Public Policymaking. Specifically, the oppurtunity that state of the art technologies can bring to improving the overall policmaking process. 
 
-## Domain Knowledge:
+### Domain Knowledge:
 
 - Political Science
 - Economics/Econometrics
@@ -13,7 +13,7 @@ Interested in the intersection of Data Science and Public Policymaking. Specific
 - Finance
 - Business Management 
 
-## Data Science AOI:
+### Data Science AOI:
 
 - Sentiment Analysis
 - NLP
@@ -21,7 +21,7 @@ Interested in the intersection of Data Science and Public Policymaking. Specific
 - API/Json 
 - Social Media Network Analysis
 
-## Technical Expertise:
+### Technical Expertise:
 
 - Statistical Analysis
 - Statistical Modelling 
@@ -29,12 +29,19 @@ Interested in the intersection of Data Science and Public Policymaking. Specific
 - Machine Learning
 - Data Mining
 
-## Language Expertise:
+### Language Expertise:
 
 - Python
 - R
 - SQL 
 - Java
+
+### IDEs:
+
+- RStudio
+- Jupyter Notebooks
+- VS Code
+- Atom
 
 
 ## My GitHub Portfolio:
@@ -43,7 +50,7 @@ Interested in the intersection of Data Science and Public Policymaking. Specific
 
 Here are a couple of examples of some of the projects i have worked on:
 
-**1. Fake News Classifier**
+#### 1. Fake News Classifier 
 
 The project sought to build a machine learning classification algorithm that could effectively categorise news articles as fake or real.
 
@@ -54,6 +61,7 @@ The project is here: [Fake News Classifier](https://github.com/JUA96/fake-news-c
 Software used: 
 
 - Python
+- Jupyter Notebooks
 
 Key Package Dependencies:
 
@@ -62,7 +70,7 @@ Key Package Dependencies:
 - Spacy
 - Sklearn
 
-**2. Geospatial Analysis of London's Borough's**
+#### 2. Geospatial Analysis of London's Borough's
 
 The project set out to see if we could predict London's house prices by the amount of well rated locations and venues in each borough. 
 
