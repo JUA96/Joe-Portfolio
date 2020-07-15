@@ -110,7 +110,7 @@ Key Package Dependencies:
 
 #### 3. Predicting US Border Crossings 
 
-The project aim was to see if it was possible to forecast US Border Crossings volumes. Specifically, I wanted to predict which states and ports, entrants would arrive through, as well as establish how likley it was the entrants would arrive on foot or by car.
+The project aim was to see if it was possible to forecast US Border Crossings volumes. Specifically, I wanted to predict which states and ports, entrants would arrive through, as well as establish how likley it was the entrants would arrive on foot or by car...
 
 **Other Projects**
 
