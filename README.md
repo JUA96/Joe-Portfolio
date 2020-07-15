@@ -2,7 +2,7 @@
 
 **Data Analyst, and aspiring Data Scientist who is always open to new oppurtunities.**
 
-Interested in the intersection of Data Science and Public Policymaking. Specifically, the oppurtunity that state of the art technologies can bring to improving the overall policmaking process. 
+Interested in the intersection of Data Science and Public Policymaking, I am fascinated by the oppurtunity that state of the art machine-learning developments  can bring to the overall policmaking process. 
 
 I am a big fan conducting stastistical modelling in R, but I also have significant experience in machine learning with Python. Over the next years I would like to build a substantial portfolio of R and Python projects, leveraging the various advantages of each language to build interesting and useful predictive models.
 
