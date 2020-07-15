@@ -1,6 +1,6 @@
 # Hello and Welcome to my GitHub Portfolio
 
-**Master of Science Graduate (political science, economics), Data Analyst, and aspiring Data Scientist who is interested in innovative developments at the intersection of Data Science and Public Policy. Specifically, I am fascinated by the positive impacts that state of the art machine learning models can have on society, governance and policymaking.**
+**Master of Science Graduate (political science, economics), Data Analyst, and aspiring Data Scientist who is interested in innovative developments at the intersection of Data Science and Public Policy. In particular, I am fascinated by the positive impacts that state of the art machine learning models can have on society, governance and policymaking.**
 
 I am a big fan of statistical modelling in R, but also have significant machine learning and data science experience with Python. Over the next few years I would like to build a substantial portfolio of R and Python projects, leveraging the various advantages of each language to build interesting and useful predictive models.
 
@@ -87,11 +87,11 @@ Key Package Dependencies:
 - Spacy
 - Sklearn
 
-#### 2. Geospatial Analysis of London's Borough's
+#### 2. Geospatial Analysis of London Borough's
 
 The project set out to see if we could predict London's house prices by the amount of well rated locations and venues in each borough. 
 
-- Using Clustering Analysis I succesfully predicted which price segment a borough would fit into based on the type of venues that were in it.
+- Deploying Clustering Analysis techniques I succesfully predicted which **price segment** a borough would fit into based on the type of venues that were in it.
 
 The project is here: [London Geospatial](https://github.com/JUA96/Capstone-Project-Geospatial-Analysis)
 
@@ -107,6 +107,10 @@ Key Package Dependencies:
 - json requests
 - folium
 - geopy
+
+#### 3. Predicting US Border Crossings 
+
+The project aim was to see if it was possible to forecast US Border Crossings. Specifically, I wanted to predict which states and ports entrants would arrive through.
 
 **Other Projects**
 
