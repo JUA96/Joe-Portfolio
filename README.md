@@ -49,7 +49,7 @@ The project sought to build a machine learning classification algorithm that cou
 
 - Using Natural Language Processing techniques I classified 150,000 news articles. The algorithms used were Support-Vector Machine (SVM) Multinomial Naive-Bayes (MNB) and XGBoost, of which SVM was the most accurate.
 
-The project is here: https://github.com/JUA96/fake-news-classifier
+The project is here: [Fake News Classifier](https://github.com/JUA96/fake-news-classifier)
 
 Software used: 
 
@@ -68,7 +68,7 @@ The project set out to see if we could predict London's house prices by the amou
 
 - Using Clustering Analysis I succesfully predicted which price segment a borough would fit into based on the type of venues that were in it.
 
-The project is here: https://github.com/JUA96/Capstone-Project-Geospatial-Analysis
+The project is here: [London Geospatial](https://github.com/JUA96/Capstone-Project-Geospatial-Analysis)
 
 Software used: 
 
@@ -90,4 +90,4 @@ Some of my other projects have included:
 - Social Media Analysis of the 2019 Democrat Presidential Primaries, using R.
 - Analysis of the impact of Chinese Financial flows on state level governance in Africa, using R.
 
-You can find the remaining projects here: https://github.com/JUA96?tab=repositories
+You can find the [remaining projects here](https://github.com/JUA96?tab=repositories)
