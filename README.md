@@ -1,6 +1,6 @@
 # Hello and Welcome to my GitHub Portfolio
 
-**MSc Graduate, Data Analyst, and aspiring Data Scientist who is interested in innovative developments at the intersection of Data Science and Public Policy. Specifically, I am fascinated by the positive impacts that state of the art machine learning models can have on society, governance and policymaking.
+**Master of Science Graduate (political science, economics), Data Analyst, and aspiring Data Scientist who is interested in innovative developments at the intersection of Data Science and Public Policy. Specifically, I am fascinated by the positive impacts that state of the art machine learning models can have on society, governance and policymaking.**
 
 I am a big fan of statistical modelling in R, but also have significant machine learning and data science experience with Python. Over the next few years I would like to build a substantial portfolio of R and Python projects, leveraging the various advantages of each language to build interesting and useful predictive models.
 
