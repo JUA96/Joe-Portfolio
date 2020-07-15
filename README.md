@@ -1,10 +1,8 @@
-# Welcome to my GitHub Portfolio
+# Hello and Welcome to my GitHub Portfolio
 
-**Data Analyst, and aspiring Data Scientist who is always open to new oppurtunities.**
+**MSc Graduate, Data Analyst, and aspiring Data Scientist who is interested in innovative developments at the intersection of Data Science and Public Policy. Specifically, I am fascinated by the positive impacts that state of the art machine learning models can have on society, governance and policymaking.
 
-Interested in the intersection of Data Science and Public Policymaking, I am fascinated by the oppurtunity that state of the art machine-learning developments  can bring to the overall policmaking process. 
-
-A big fan conducting stastistical modelling in R, but also have significant experience in machine learning with Python. Over the next years I would like to build a substantial portfolio of R and Python projects, leveraging the various advantages of each language to build interesting and useful predictive models.
+I am a big fan of statistical modelling in R, but also have significant machine learning and data science experience with Python. Over the next few years I would like to build a substantial portfolio of R and Python projects, leveraging the various advantages of each language to build interesting and useful predictive models.
 
 One of the areas I would like to focus on is using Natural Language Processing methods to extract insights from Social Media (Twitter, Facebook etc...) With the amount of data produced on social media there is an enormous need to analyse and establish trends/patterns in the mined datasets. The use cases could be in fields of counter terrorism, state security, combatting fake news, political strategy and marketing insights.
 
