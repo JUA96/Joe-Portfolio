@@ -4,12 +4,14 @@
 
 Interested in the intersection of Data Science and Public Policymaking. Specifically, the oppurtunity that state of the art technologies can bring to improving the overall policmaking process. 
 
+I am a big fan conducting stastistical modelling in R, but also have substantial experience in machine learning with Python. Over the next years I would like to build a substantial portfolio or R and Python projects, leveraging the various advantages of each language to build interesting predictive models.
+
 ### Domain Knowledge:
 
 - Political Science
 - Economics/Econometrics
 - Behavioural Science
-- Public Policy
+- Public Policy Evaluation
 - Finance
 - Business Management 
 
@@ -21,12 +23,22 @@ Interested in the intersection of Data Science and Public Policymaking. Specific
 - API/Json 
 - Social Media Network Analysis
 
+### Statistical/Econometrics Expertise:
+
+- Time-series
+- Panel Data 
+- Bayesian Modelling
+- Multilivel Regression Modelling
+- Logistic Regression
+- Generalized Additive Models (Smoothing Functions)
+- Synthetic Control
+
 ### Technical Expertise:
 
 - Statistical Analysis
 - Statistical Modelling 
 - Predictive Analytics
-- Machine Learning
+- Machine Learning (Classification, Regression, Clustering)
 - Data Mining
 
 ### Language Expertise:
