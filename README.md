@@ -1,6 +1,6 @@
 # Hello and Welcome to my GitHub Portfolio!
 
-**Master of Science Graduate (political science, economics), Data Analyst, and aspiring Data Scientist who is interested in innovative developments at the intersection of Data Science and Public Policy. In particular, I am fascinated by the positive impacts that state of the art machine learning models can have on society, governance and policymaking.**
+**Master of Science Graduate (UCL), Data Analyst, and aspiring Data Scientist who is interested in innovative developments at the intersection of Data Science and Public Policy. In particular, I am fascinated by the positive impacts that state of the art machine learning models can have on society, governance and policymaking.**
 
 I am a big fan of statistical modelling in R, but also have significant machine learning and data science experience with Python. Over the next few years I would like to build a substantial portfolio of R and Python projects, leveraging the various advantages of each language to build interesting and useful predictive models.
 
@@ -110,7 +110,7 @@ Key Package Dependencies:
 
 #### 3. Predicting US Border Crossings 
 
-The project aim was to see if it was possible to forecast US Border Crossings. Specifically, I wanted to predict which states and ports entrants would arrive through.
+The project aim was to see if it was possible to forecast US Border Crossings volumes. Specifically, I wanted to predict which states and ports, entrants would arrive through, as well as establish how likley it was the entrants would arrive on foot or by car.
 
 **Other Projects**
 
