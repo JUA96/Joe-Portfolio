@@ -1,4 +1,4 @@
-# Hello and Welcome to my GitHub Portfolio
+# Hello and Welcome to my GitHub Portfolio!
 
 **Master of Science Graduate (political science, economics), Data Analyst, and aspiring Data Scientist who is interested in innovative developments at the intersection of Data Science and Public Policy. In particular, I am fascinated by the positive impacts that state of the art machine learning models can have on society, governance and policymaking.**
 
