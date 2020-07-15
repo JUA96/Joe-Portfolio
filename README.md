@@ -4,7 +4,14 @@
 
 Interested in the intersection of Data Science and Public Policymaking. Specifically, the oppurtunity that state of the art technologies can bring to improving the overall policmaking process. 
 
-I am a big fan conducting stastistical modelling in R, but also have substantial experience in machine learning with Python. Over the next years I would like to build a substantial portfolio or R and Python projects, leveraging the various advantages of each language to build interesting predictive models.
+I am a big fan conducting stastistical modelling in R, but I also have significant experience in machine learning with Python. Over the next years I would like to build a substantial portfolio of R and Python projects, leveraging the various advantages of each language to build interesting and useful predictive models.
+
+One of the areas I would like to focus on is Natural Language Processing and Social Media data. With the amount of data produced on social media there is an enormous need to analyse and establish trends/patterns in the mined datasets. The use cases could be in fields of counter terrorism, state security, combatting fake news, political strategy and marketing insights.
+
+If you would like to colloborate or share ideas with me please get in touch:
+
+- Email: joseph.arber1@gmail.com
+- Linkedin: https://www.linkedin.com/in/josepharber/
 
 ### Domain Knowledge:
 
