@@ -129,6 +129,16 @@ Key Package Dependencies:
 - statsmodels
 - json
 
+#### 4. What influences European Voter Preferences?
+
+This project was completed as a requirement for a quantitative methods module at graduate school. Using the European-Social Survey dataset I wanted to explore which factors determined how a respondent was likley to vote in respect to levels of EU integration. This was a fairly straightforward Logistic Regression problem, but I did arrive at some predicted probabilities for how likley a respondent would vote leave based on their age, sex, employment and trade union status. 
+
+The project is here:[EU Voting Preferences](https://github.com/JUA96/logistic-regression-in-R/blob/master/EU-voting-preferences.Rmd)
+
+Software used:
+
+- R, R Markdown
+
 **Other Projects**
 
 Some of my other projects have included:
