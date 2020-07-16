@@ -120,6 +120,15 @@ Software used:
 
 - Python, VS Code IDE
 
+Key Package Dependencies:
+
+- Sklearn
+- scipy
+- plotly
+- calendar
+- statsmodels
+- json
+
 **Other Projects**
 
 Some of my other projects have included:
