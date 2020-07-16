@@ -110,7 +110,15 @@ Key Package Dependencies:
 
 #### 3. Predicting US Border Crossings 
 
-The project aim was to see if it was possible to forecast US Border Crossings volumes. Specifically, I wanted to predict which states and ports, entrants would arrive through, as well as establish how likley it was the entrants would arrive on foot or by car...
+The project goal was to see if it was possible to forecast US Border Crossings volumes. Specifically, I wanted to predict which states and ports, entrants would arrive through, as well as establish how likley it was the entrants would arrive on foot or by car. 
+
+- Deploying various time-series forecasting models ARIMA and Random Walk, I succefully predicted the volume of entrants over the next 5 years. 
+
+The project is here: [US Border Crossing Predictions](https://github.com/JUA96/VScode-ML-projects-python/blob/master/US-Border-Data.ipynb)
+
+Software used: 
+
+- Python, VS Code IDE
 
 **Other Projects**
 
