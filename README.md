@@ -145,5 +145,6 @@ Some of my other projects have included:
 
 - Social Media Analysis of the 2019 Democrat Presidential Primaries, using R.
 - Analysis of the impact of Chinese Financial flows on state level governance in Africa, using R.
+- Predicting House prices using Bayesian methods
 
 You can find the [remaining projects here](https://github.com/JUA96?tab=repositories)
