@@ -6,7 +6,7 @@ I am a big fan of statistical modelling in R, but also have machine learning and
 
 One of the areas I would like to focus on is using Natural Language Processing methods to extract insights from Social Media (Twitter, Facebook etc...) With the amount of data produced on social media there is an enormous need to analyse and establish trends/patterns in the mined datasets. The use cases could be in fields of counter terrorism, state security, combatting fake news, political strategy and marketing insights.
 
-If you would like to colloborate or share ideas with me please get in touch:
+If you would like to colloborate or share ideas with me please do get in touch at:
 
 - Email: joseph.arber1@gmail.com
 - Linkedin: https://www.linkedin.com/in/josepharber/
