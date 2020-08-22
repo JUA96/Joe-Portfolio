@@ -14,7 +14,7 @@ If you would like to colloborate or share ideas with me please do get in touch a
 ### Domain Knowledge:
 
 - Political Science
-- Economics/Econometrics
+- Economics and Econometrics
 - Behavioural Science
 - Public Policy Evaluation
 - Finance
