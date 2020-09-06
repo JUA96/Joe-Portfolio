@@ -1,6 +1,6 @@
 # Hello and Welcome to my GitHub Portfolio!
 
-**Master of Science Graduate (UCL), Data Analyst, and aspiring Data Scientist who is interested in innovative developments at the intersection of Data Science and Public Policy. In particular, I am fascinated by the positive impacts that state of the art machine learning models can have on society, governance and policymaking.**
+**Master of Science Graduate (UCL), Data Analyst who is interested in innovative developments at the intersection of Data Science and Public Policy. In particular, I am fascinated by the positive impacts that open source modelling and state of the predictive models can have on governance and policymaking.**
 
 I am a big fan of statistical modelling in R, but also have machine learning and data science experience with Python. Over the next few years I would like to build a substantial portfolio of R and Python projects, leveraging the various advantages of each language to build interesting and useful models, tools and apps.
 
@@ -146,5 +146,6 @@ Some of my other projects have included:
 - Social Media Analysis of the 2019 Democrat Presidential Primaries, using R.
 - Analysis of the impact of Chinese Financial flows on state level governance in Africa, using R.
 - Predicting House prices using Bayesian methods
+- Predicting whether a UK welfare claimant is likley to struggle with managing their debt
 
 You can find the [remaining projects here](https://github.com/JUA96?tab=repositories)
