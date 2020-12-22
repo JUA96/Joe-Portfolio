@@ -1,10 +1,16 @@
-# Hello and Welcome to my GitHub Portfolio!
+# Joseph Arber 
 
-**Master of Science Graduate (UCL), Data Analyst who is interested in innovative developments at the intersection of Data Science and Public Policy. In particular, I am fascinated by the positive impacts that open source modelling and state of the predictive models can have on governance and policymaking.**
+👋
+Hi, I am Joe and Welcome to my GitHub Portfolio! I currently work as a Data Analyst for a DTC startup. I am a Political Scientist by training completing my Bachelors degree at SOAS, and my Masters at UCL. 
 
-I am a big fan of statistical modelling in R, but also have machine learning and data science experience with Python. Over the next few years I would like to build a substantial portfolio of R and Python projects, leveraging the various advantages of each language to build interesting and useful models, tools and apps.
+🛠
+I am very interested in innovative developments at the intersection of Data Science and Public Policy making. In particular, I am fascinated by the positive impacts that open source colloboration and state of the data driven prediction can have on the governance and policymaking processes. I truly believe that there is massive room for innovation in how our institutions function and how our socities are governed, technology and data can certainly a play big role in this. I often brings these thoughts and ideas together, for instance I contribute to a daily newsletter blog run by some fellow politically engaged peers, that can be found [here]https://www.polisanalysis.com/blog/polis-snapshots-what-is-polis-analysis-doing-to-address-the-problem-of-fake-news. 
 
-One of the areas I would like to focus on is using Natural Language Processing methods to extract insights from Social Media (Twitter, Facebook etc...) With the amount of data produced on social media there is an enormous need to analyse and establish trends/patterns in the mined datasets. The use cases could be in fields of counter terrorism, state security, combatting fake news, political strategy and marketing insights.
+👨🏽‍💻
+Alongside my political science training I have also gained experience in the data science. I am a big fan of statistical modelling in R, but I also have produced machine learning models with Python. Over the next few months, maybe years... I would like to build a substantial portfolio of R and Python projects, leveraging the various advantages of each language to build interesting and useful models, tools and apps.
+
+🗣
+One of the areas I would like to focus on is using Natural Language Processing methods to extract insights from Social Media (Twitter, Facebook etc...) With the amount of data produced on social media there is an enormous need to analyse and establish trends/patterns in the mined datasets. The use cases could be in fields of counter extremism, combatting fake news, political and business strategy and generally being useful in helping to better understand public opinion across the digital world!
 
 If you would like to colloborate or share ideas with me please do get in touch at:
 
