@@ -1,7 +1,7 @@
 # Joseph Arber 
 
 👋
-Hi, I am Joe and Welcome to my GitHub Portfolio! I currently work as a Data Analyst for a DTC startup. I come from a political science background having completed my MSc in public policy analysis. Building on my training in computational social science methods including statistics and econometrics I have moved into the field of data science. The purpose of this portfolio is to showcase the range of different data driven projects and analyses I have undertaken over the past few years.  
+Hi, I am Joe and Welcome to my GitHub Portfolio! I currently work as a Data Analyst for a DTC startup. I come from a political science background having completed my MSc in public policy analysis. Building on my training in computational social science methods including statistics and econometrics I have moved into the field of data science. The purpose of this portfolio is to showcase the range of different data driven projects and analyses I have undertaken over the past few years. 
 
 ## Interests 🔭 
 I am very interested in innovative developments at the intersection of Data Science and Public Policy making. In particular, I am fascinated by the positive impacts that open source colloboration and state of the data driven prediction can have on the governance and policymaking processes. I truly believe that there is massive room for innovation in how our institutions function. I often brings these thoughts and ideas together, for instance I contribute to a daily newsletter blog run by some fellow politically engaged peers, that can be found [here]https://www.polisanalysis.com/blog/polis-snapshots-what-is-polis-analysis-doing-to-address-the-problem-of-fake-news. 
@@ -112,6 +112,7 @@ Key Package Dependencies:
 - bs4
 - json requests
 - folium
+- geopandas
 - geopy
 
 #### 3. Predicting US Border Crossings 
@@ -129,6 +130,7 @@ Software used:
 Key Package Dependencies:
 
 - Sklearn
+- geopandas
 - scipy
 - plotly
 - calendar
@@ -143,7 +145,32 @@ The project is here:[EU Voting Preferences](https://github.com/JUA96/logistic-re
 
 Software used:
 
-- R, R Markdown
+- R studio, R Markdown
+
+Key Package Dependencies:
+
+- tidyverse
+- dplyr
+- foreign
+- ggplot2
+- caret 
+- aod 
+
+#### 5. Understanding the British Welfare State System: "What causes welfare recipients to fall into arrears?" 
+
+A descriptive and statistical data analysis of the UK welfare state system.
+
+The aim of this analysis was to explore the main themes and trends behind the welfare payments system in the UK. However, given the size of the dataset, this specific projects timeframe and intended audience, the scope of the analysis was narrowed down to focus on a few key questions. Notably, the analysis carried out tried to gain a better understanding through two dimensions:
+
+1. Qualitative Understanding: What are the main drivers of welfare claims, and what are the key reasons for failure to meet debt repayments?
+
+2. Quantitative Understanding: Is housing benefit enough to sustain rent? Does universal credit cover monthly costs?
+
+Specifically, this analysis wanted to invesigate what welfare and benefit features included in the dataset are most correlated with a users inability to manage debt repayments. Alongside this, the analysis also sought to determine whether the cost living, housing and rental costs matched the amount a user recieves in benefit payments such as Universal Credit, Housing Allowance and several others.
+
+Factor analysis was conducted to reduce the number of variables in the regression models used. Variables were narrowed down to 'size of monthly rent' and 'number of children per household'. 
+
+The project is here:[UK Welfare State Analysis](https://github.com/JUA96/FRS-welfare-data-analysis)
 
 **Other Projects**
 
