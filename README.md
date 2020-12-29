@@ -172,7 +172,9 @@ The aim of this analysis was to explore the main themes and trends behind the we
 
 Specifically, this analysis wanted to invesigate what welfare and benefit features included in the dataset are most correlated with a users inability to manage debt repayments. Alongside this, the analysis also sought to determine whether the cost living, housing and rental costs matched the amount a user recieves in benefit payments such as Universal Credit, Housing Allowance and several others.
 
-Factor analysis was conducted to reduce the number of variables in the regression models used. Variables were narrowed down to 'size of monthly rent' and 'number of children per household'. 
+![alt text](https://github.com/JUA96/Projects-Porfolio/blob/master/Screenshot%202020-12-29%20at%2011.35.10.png)
+
+Factor analysis was also conducted to reduce the number of variables in the predictive models used. Variables were narrowed down to 'size of monthly rent' and 'number of children per household'. 
 
 The project is here:[UK Welfare State Analysis](https://github.com/JUA96/FRS-welfare-data-analysis)
 
