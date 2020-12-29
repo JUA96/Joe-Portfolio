@@ -4,9 +4,9 @@
 Hi, I am Joe and Welcome to my GitHub Portfolio! I currently work as a Data Analyst for a DTC startup. I come from a political science background having completed my MSc in public policy analysis. Building on my training in computational social science methods including statistics and econometrics I have moved into the field of data science. The purpose of this portfolio is to showcase the range of different data driven projects and analyses I have undertaken over the past few years. 
 
 ## Interests 🔭 
-I am very interested in innovative developments at the intersection of Data Science and Public Policy making. In particular, I am fascinated by the positive impacts that open source colloboration and state of the data driven prediction can have on the governance and policymaking processes. I truly believe that there is massive room for innovation in how our institutions function. I often brings these thoughts and ideas together, for instance I contribute to a daily newsletter blog run by some fellow politically engaged peers, that can be found [here]https://www.polisanalysis.com/blog/polis-snapshots-what-is-polis-analysis-doing-to-address-the-problem-of-fake-news. 
+I am interested in innovative developments at the intersection of Data Science and Public Policy making. In particular, I am fascinated by the positive impact that open source colloboration and new technologies can have on our governance and policymaking processes. I truly believe that there is massive room for innovation in how our institutions function and make decisions. I often brings these thoughts and ideas together, for instance I contribute to a daily newsletter blog run by some fellow politically engaged peers, that can be found [here]https://www.polisanalysis.com/blog/polis-snapshots-what-is-polis-analysis-doing-to-address-the-problem-of-fake-news. 
 
-👨🏽‍💻
+## Skills 👨🏽‍💻
 Alongside my political science training I have also gained experience in the data science. I am a big fan of statistical modelling in R, but I also have produced machine learning models with Python. Over the next few months, maybe years... I would like to build a substantial portfolio of R and Python projects, leveraging the various advantages of each language to build interesting and useful models, tools and apps.
 
 🗣
