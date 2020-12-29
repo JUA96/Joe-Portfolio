@@ -1,7 +1,7 @@
 # Joseph Arber 
 
 ## Greetings 👋
-Hi, I am Joe and Welcome to my GitHub Portfolio! The purpose of this portfolio is to showcase the range of different data driven projects and analyses I have undertaken over the past few years. 
+Hi, I am Joe and welcome to my GitHub Portfolio! The purpose of this portfolio is to showcase the range of different data driven projects and analyses I have undertaken over the past few years. 
 
 ## Background 🙋🏽‍♂️
 I currently work as a Data Analyst for a DTC e-commerce startup but I come from a political science background having completed my MSc at UCL, majoring in public policy analysis. On this gradute course there was a strong empahsis on using computational methods to extract insights and generate conclusiosns from large public datasets. In conducting this analysis I was introduced to R progamming and have been hooked ever since. Building on my training in computational social science I decided to move into the field of data science.  
