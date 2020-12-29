@@ -43,7 +43,7 @@ If you would like to colloborate or share ideas with me please do get in touch a
 - Time-series
 - Panel Data 
 - Bayesian Modelling
-- Multilivel Regression Modelling
+- Multilevel Regression Modelling
 - Logistic Regression
 - Generalized Additive Models (Smoothing Functions)
 - Synthetic Control
