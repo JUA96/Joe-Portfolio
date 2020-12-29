@@ -17,13 +17,9 @@ One of the areas I would like to focus on is using Natural Language Processing m
 
 If you would like to colloborate or share ideas with me please do get in touch at:
 
+- `Email`: joseph.arber1@gmail.com
+- `Linkedin`: https://www.linkedin.com/in/josepharber/
 
---- | --- 
-| `Email` | **joseph.arber1@gmail.com**
-`Linkedin` | **https://www.linkedin.com/in/josepharber/** | 
-
-- Email: joseph.arber1@gmail.com
-- Linkedin: https://www.linkedin.com/in/josepharber/
 
 ### Domain Knowledge:
 
