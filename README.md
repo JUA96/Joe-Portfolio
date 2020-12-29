@@ -111,6 +111,14 @@ The project set out to see if we could predict London's house prices by the amou
 
 Significant predictors of house price variation across boroughs were **proximity to 5-star restaurants, museums and other well rated venues.**
 
+Data Acquisition: 
+- Four Square API venue data. Loaded data in JSON format then converted it to a pandas df.
+
+1. London's property prices data from the london data store: https://data.london.gov.uk/dataset/average-house-prices The dataset contained the 'year', 'average value', 'borough', 'measure', we also added the latitude and longitude values for each borough in order to carry out the analyses.
+
+2. Geospatial data from http://martinjc.github.io/UK-GeoJSON/json/eng/topo_eer.json in JSON format allowed us to conduct the geospatial analyses, specifically mapping the property prices to the clustered location data.
+
+
 The project is here: [London Geospatial](https://github.com/JUA96/Capstone-Project-Geospatial-Analysis)
 
 Software used: 
