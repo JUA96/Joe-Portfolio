@@ -137,6 +137,8 @@ Key Package Dependencies:
 
 ### 3. Predicting US Border Crossings 
 
+**Project Overview:**
+
 The project goal was to see if it was possible to forecast US Border Crossings volumes. Specifically, I wanted to predict which states and ports, entrants would arrive through, as well as establish how likley it was the entrants would arrive on foot or by car. 
 
 - Deploying various time-series forecasting models ARIMA and Random Walk, I succefully predicted the volume of entrants over the next 5 years. 
@@ -159,6 +161,8 @@ Key Package Dependencies:
 
 ### 4. What influences European Voter Preferences?
 
+**Project Overview:**
+
 This project was completed as a requirement for a quantitative methods module at graduate school. Using the European-Social Survey dataset I wanted to explore which factors determined how a respondent was likley to vote in respect to levels of EU integration. This was a fairly straightforward Logistic Regression problem, but I did arrive at some predicted probabilities for how likley a respondent would vote leave based on their age, sex, employment and trade union status. 
 
 The project is here:[EU Voting Preferences](https://github.com/JUA96/logistic-regression-in-R/blob/master/EU-voting-preferences.Rmd)
@@ -178,6 +182,8 @@ Key Package Dependencies:
 
 ### 5. Understanding the British Welfare State System: "What causes welfare recipients to fall into arrears?" 
 
+**Project Overview:**
+
 A descriptive and statistical data analysis of the UK welfare state system.
 
 The aim of this analysis was to explore the main themes and trends behind the welfare payments system in the UK. However, given the size of the dataset, this specific projects timeframe and intended audience, the scope of the analysis was narrowed down to focus on a few key questions. Notably, the analysis carried out tried to gain a better understanding through two dimensions:
@@ -188,19 +194,23 @@ The aim of this analysis was to explore the main themes and trends behind the we
 
 Specifically, this analysis wanted to invesigate what welfare and benefit features included in the dataset are most correlated with a users inability to manage debt repayments. Alongside this, the analysis also sought to determine whether the cost living, housing and rental costs matched the amount a user recieves in benefit payments such as Universal Credit, Housing Allowance and several others.
 
-![alt text](https://github.com/JUA96/Projects-Porfolio/blob/master/Screenshot%202020-12-29%20at%2011.35.10.png)
 
 Factor analysis was also conducted to reduce the number of variables in the predictive models used. Variables were narrowed down to 'size of monthly rent' and 'number of children per household'. 
 
 The project is here:[UK Welfare State Analysis](https://github.com/JUA96/FRS-welfare-data-analysis)
 
-**Other Projects**
+### Other Projects
 
 Some of my other projects have included:
 
 - Social Media Analysis of the 2019 Democrat Presidential Primaries, using R.
-- Analysis of the impact of Chinese Financial flows on state level governance in Africa, using R.
 - Predicting House prices using Bayesian methods
-- Predicting whether a UK welfare claimant is likley to struggle with managing their debt
+- Panel Data Analysis of the impact of Chinese Financial flows on state level governance in Africa.
 
-You can find the [remaining projects here](https://github.com/JUA96?tab=repositories)
+Apps: 
+
+- Using ``streamlit`` I built an geospatial app that be used to analyse car collisions across New York City. The app is [here](https://github.com/JUA96/streamlit-geospatial-app-python)
+
+You can find the [remaining projects here in my repo](https://github.com/JUA96?tab=repositories)
+
+Happy musing! 😀
