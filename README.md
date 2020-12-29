@@ -76,7 +76,7 @@ If you would like to colloborate or share ideas with me please do get in touch a
 
 **My GitHub page showcases a number of data science projects I have worked on. I regularly add to this portfolio with new programming projects that are of interest to me.**
 
-Here are a couple of examples of some of the projects i have worked on:
+Here are a couple of examples of some of the **data science projects** i have worked on:
 
 ### 1. Fake News Classifier 
 
