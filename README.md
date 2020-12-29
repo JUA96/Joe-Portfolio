@@ -77,11 +77,13 @@ If you would like to colloborate or share ideas with me please do get in touch a
 
 Here are a couple of examples of some of the projects i have worked on:
 
-#### 1. Fake News Classifier 
+### 1. Fake News Classifier 
 
-The project sought to build a machine learning classification algorithm that could effectively categorise news articles as fake or real.
+**Project Overview:**
 
-- Using Natural Language Processing techniques I classified 150,000 news articles. The algorithms used were Support-Vector Machine (SVM) Multinomial Naive-Bayes (MNB) and XGBoost, of which SVM was the most accurate.
+The project sought to succesfully predict whether an unseen news article was 'fake or real. This entailed using several machine learning algorithms that could effectively classify 100,000 articles. 
+
+- Using Natural Language Processing techniques I classified 150,000 news articles. The algorithms used were Support-Vector Machine (SVM), Multinomial Naive-Bayes (MNB), and XGBoost (XGB), of which SVM was the most successful with a **97%%** accuracy.
 
 The project is here: [Fake News Classifier](https://github.com/JUA96/fake-news-classifier)
 
@@ -97,11 +99,17 @@ Key Package Dependencies:
 - Spacy
 - Sklearn
 
-#### 2. Geospatial Analysis of London Borough's
+### 2. Geospatial Analysis of London Borough's
+
+**Project Overview:**
 
 The project set out to see if we could predict London's house prices by the amount of well rated locations and venues in each borough. 
 
-- Deploying Clustering Analysis techniques I succesfully predicted which **price segment** a borough would fit into based on the type of venues that were in it.
+- Using the Four Square API to mine location data, I segmented venues and locations based on the London borough they reside in. I then used these segments to cluster the data based on the average value of a property for each borough. I subsequently mapped this data to geographically explore the variation in house prices in respect to venue density.
+
+- Deploying K-Means clustering techniques I succesfully predicted which **price segment** a borough would fit into based on the type of venues that were in it.
+
+Significant predictors of house price variation across boroughs were **proximity to 5-star restaurants, museums and other well rated venues.**
 
 The project is here: [London Geospatial](https://github.com/JUA96/Capstone-Project-Geospatial-Analysis)
 
@@ -119,7 +127,7 @@ Key Package Dependencies:
 - geopandas
 - geopy
 
-#### 3. Predicting US Border Crossings 
+### 3. Predicting US Border Crossings 
 
 The project goal was to see if it was possible to forecast US Border Crossings volumes. Specifically, I wanted to predict which states and ports, entrants would arrive through, as well as establish how likley it was the entrants would arrive on foot or by car. 
 
@@ -141,7 +149,7 @@ Key Package Dependencies:
 - statsmodels
 - json
 
-#### 4. What influences European Voter Preferences?
+### 4. What influences European Voter Preferences?
 
 This project was completed as a requirement for a quantitative methods module at graduate school. Using the European-Social Survey dataset I wanted to explore which factors determined how a respondent was likley to vote in respect to levels of EU integration. This was a fairly straightforward Logistic Regression problem, but I did arrive at some predicted probabilities for how likley a respondent would vote leave based on their age, sex, employment and trade union status. 
 
@@ -160,7 +168,7 @@ Key Package Dependencies:
 - caret 
 - aod 
 
-#### 5. Understanding the British Welfare State System: "What causes welfare recipients to fall into arrears?" 
+### 5. Understanding the British Welfare State System: "What causes welfare recipients to fall into arrears?" 
 
 A descriptive and statistical data analysis of the UK welfare state system.
 
