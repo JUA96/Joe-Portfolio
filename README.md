@@ -1,6 +1,6 @@
 # Joseph Arber 
 
-## Greetings 👋
+## Welcome 👋
 Hi, I am Joe and welcome to my GitHub Portfolio! The purpose of this portfolio is to showcase the range of different data driven projects and analyses I have undertaken over the past few years. 
 
 ## Background 🙋🏽‍♂️
@@ -16,6 +16,11 @@ Alongside my political science training I have also gained experience in the dat
 One of the areas I would like to focus on is using Natural Language Processing methods to extract insights from Social Media (Twitter, Facebook etc...) With the amount of data produced on social media there is an enormous need to analyse and establish trends/patterns in the mined datasets. The use cases could be in fields of counter extremism, combatting fake news, political and business strategy and generally being useful in helping to better understand public opinion across the digital world!
 
 If you would like to colloborate or share ideas with me please do get in touch at:
+
+
+--- | --- 
+| `Email` | **joseph.arber1@gmail.com**
+`Linkedin` | **https://www.linkedin.com/in/josepharber/** | 
 
 - Email: joseph.arber1@gmail.com
 - Linkedin: https://www.linkedin.com/in/josepharber/
