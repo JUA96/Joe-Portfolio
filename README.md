@@ -27,12 +27,11 @@ If you would like to colloborate or share ideas with me please do get in touch a
 
 ### Domain Knowledge:
 
-- Political Science
-- Economics and Econometrics
+- Political Science and Economics 
+- Econometrics and Statistics
 - Behavioural Science
 - Public Policy Evaluation
-- Finance
-- Business Management 
+- Business Strategy
 
 ### Data Science AOI:
 
@@ -52,20 +51,18 @@ If you would like to colloborate or share ideas with me please do get in touch a
 - Generalized Additive Models (Smoothing Functions)
 - Synthetic Control
 
-### Technical Expertise:
+### Technical Skills:
 
-- Statistical Analysis
-- Statistical Modelling 
-- Predictive Analytics
+- Data Analysis, EDA & Hypthesis Building
+- Predictive Analytics, Inferential Modelling
 - Machine Learning (Classification, Regression, Clustering)
-- Data Mining
+- Data Mining, Web Scraping
 
 ### Language Expertise:
 
 - Python
 - R
 - SQL 
-- Java
 
 ### IDEs:
 
@@ -87,7 +84,7 @@ Here are a couple of examples of some of the projects i have worked on:
 
 The project sought to succesfully predict whether an unseen news article was 'fake or real. This entailed using several machine learning algorithms that could effectively classify 100,000 articles. 
 
-- Using Natural Language Processing techniques I classified 150,000 news articles. The algorithms used were Support-Vector Machine (SVM), Multinomial Naive-Bayes (MNB), and XGBoost (XGB), of which SVM was the most successful with a **97%%** accuracy.
+- Using Natural Language Processing techniques I classified 150,000 news articles. The algorithms used were Support-Vector Machine (SVM), Multinomial Naive-Bayes (MNB), and XGBoost (XGB), of which SVM was the most successful with a **97%** accuracy.
 
 The project is here: [Fake News Classifier](https://github.com/JUA96/fake-news-classifier)
 
