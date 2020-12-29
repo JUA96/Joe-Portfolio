@@ -1,7 +1,10 @@
 # Joseph Arber 
 
-👋
-Hi, I am Joe and Welcome to my GitHub Portfolio! I currently work as a Data Analyst for a DTC startup. I come from a political science background having completed my MSc in public policy analysis. Building on my training in computational social science methods including statistics and econometrics I have moved into the field of data science. The purpose of this portfolio is to showcase the range of different data driven projects and analyses I have undertaken over the past few years. 
+## Greetings 👋
+Hi, I am Joe and Welcome to my GitHub Portfolio! The purpose of this portfolio is to showcase the range of different data driven projects and analyses I have undertaken over the past few years. 
+
+## Background 🙋🏽‍♂️
+I currently work as a Data Analyst for a DTC e-commerce startup but I come from a political science background having completed my MSc at UCL, majoring in public policy analysis. On this gradute course there was a strong empahsis on using computational methods to extract insights and generate conclusiosns from large public datasets. In conducting this analysis I was introduced to R progamming and have been hooked ever since. Building on my training in computational social science I decided to move into the field of data science.  
 
 ## Interests 🔭 
 I am interested in innovative developments at the intersection of Data Science and Public Policy making. In particular, I am fascinated by the positive impact that open source colloboration and new technologies can have on our governance and policymaking processes. I truly believe that there is massive room for innovation in how our institutions function and make decisions. I often brings these thoughts and ideas together in my blog! Alongside this blog, I also contribute to a daily newsletter run by some politically engaged friends over at Polis Analysis. That can be found[here]https://www.polisanalysis.com/blog/polis-snapshots-what-is-polis-analysis-doing-to-address-the-problem-of-fake-news. 
