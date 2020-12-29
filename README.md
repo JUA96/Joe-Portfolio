@@ -12,7 +12,7 @@ I am interested in innovative developments at the intersection of Data Science a
 ## Skills 👨🏽‍💻
 Alongside my political science training I have also gained experience in the data science. I am a big fan of statistical modelling in R, but I also have produced machine learning models with Python. Over the next few months, maybe years... I would like to build a substantial portfolio of R and Python projects, leveraging the various advantages of each language to build interesting and useful models, tools and apps.
 
-🗣
+
 One of the areas I would like to focus on is using Natural Language Processing methods to extract insights from Social Media (Twitter, Facebook etc...) With the amount of data produced on social media there is an enormous need to analyse and establish trends/patterns in the mined datasets. The use cases could be in fields of counter extremism, combatting fake news, political and business strategy and generally being useful in helping to better understand public opinion across the digital world!
 
 If you would like to colloborate or share ideas with me please do get in touch at:
