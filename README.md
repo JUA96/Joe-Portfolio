@@ -214,4 +214,4 @@ Apps:
 
 You can find the [remaining projects here in my repo](https://github.com/JUA96?tab=repositories)
 
-Happy musing! 😀
+Happy browsing! 😀
