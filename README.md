@@ -86,7 +86,10 @@ The project sought to succesfully predict whether an unseen news article was 'fa
 
 - Using Natural Language Processing techniques I classified 150,000 news articles. The algorithms used were Support-Vector Machine (SVM), Multinomial Naive-Bayes (MNB), and XGBoost (XGB), of which SVM was the most successful with a **97%** accuracy.
 
-![](/Screenshot%202020-12-29%20at%2017.45.00.png)
+<p align="center">
+  <img src="Screenshot%202020-12-29%20at%2017.45.00.png?raw=true" alt="Sublime's custom image"/>
+</p>
+
 
 The project is here: [Fake News Classifier](https://github.com/JUA96/fake-news-classifier)
 
@@ -167,6 +170,8 @@ Key Package Dependencies:
 **Project Overview:**
 
 This project was completed as a requirement for a quantitative methods module at graduate school. Using the European-Social Survey dataset I wanted to explore which factors determined how a respondent was likley to vote in respect to levels of EU integration. This was a fairly straightforward Logistic Regression problem, but I did arrive at some predicted probabilities for how likley a respondent would vote leave based on their age, sex, employment and trade union status. 
+
+![](/)
 
 The project is here:[EU Voting Preferences](https://github.com/JUA96/logistic-regression-in-R/blob/master/EU-voting-preferences.Rmd)
 
