@@ -86,6 +86,8 @@ The project sought to succesfully predict whether an unseen news article was 'fa
 
 - Using Natural Language Processing techniques I classified 150,000 news articles. The algorithms used were Support-Vector Machine (SVM), Multinomial Naive-Bayes (MNB), and XGBoost (XGB), of which SVM was the most successful with a **97%** accuracy.
 
+![](/Screenshot%202020-12-29%20at%2017.45.00.png)
+
 The project is here: [Fake News Classifier](https://github.com/JUA96/fake-news-classifier)
 
 Software used: 
